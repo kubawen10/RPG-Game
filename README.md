@@ -1,4 +1,4 @@
 # RPG-Game
 
-Projekt wykonany na laboratoria z Programowanie Strukturalnego i Obiektowego.
-Zakładał użycie wzorca projektowego Strategia.
+The project was completed during the laboratories for Structural and Object-Oriented Programming course. 
+It involved using the Strategy design pattern.
